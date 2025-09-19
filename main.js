@@ -1669,7 +1669,7 @@ function deleteMessage(chatId, messageId) {
 }
 
 function analyzeMessage(text) {
-  const GEN_API_KEY = "sk-quZucrZKmPAqzsM0kMpiiDdnINwQNboGChj1NfzUOLpgjEcmgbobr1Ot4gGK";
+  const GEN_API_KEY = "sk-quZ***";
   const networkId   = "gpt-4o-mini";
   const baseUrl     = "https://api.gen-api.ru/api/v1/networks";
   const adminChatId = 667861609;
